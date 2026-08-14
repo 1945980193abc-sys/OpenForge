@@ -1,0 +1,23 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.bin
+build/
+Debug/
+Release/
+
+# 临时文件
+*.tmp
+*.log
+*.swp
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# IDE 配置
+.vscode/
+.idea/
+*.user
+*.suo
